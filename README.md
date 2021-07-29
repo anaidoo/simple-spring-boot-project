@@ -4,9 +4,9 @@ This is a simple spring boot application that has the following:
 - Rest Controller with a few basic endpoints.  
 
 ## Application details
-Spring Boot Version: 2.3.0.RELEASE
-Java Version: 11 
-Spring Boot Port: 9091
+- Spring Boot Version: 2.3.0.RELEASE
+- Java Version: 11 
+- Spring Boot Port: 9091
 
 ### Sample URLs
 All authors  [http://localhost:9091/authors/](http://localhost:9091/authors)
