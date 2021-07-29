@@ -1,0 +1,9 @@
+server:
+  port: 9091
+management:
+  endpoint:
+    health:
+      enabled: true
+spring:
+  jpa:
+    show-sql: true
